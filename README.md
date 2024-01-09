@@ -1,1 +1,1 @@
-# react native todoapp to get used to react-native
+# react native todoapp in order to get used to react-native
